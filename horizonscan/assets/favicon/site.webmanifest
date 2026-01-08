@@ -1,0 +1,20 @@
+{
+    "name": "Horizonscan geneesmiddelen",
+    "short_name": "Horizonscan geneesmiddelen",
+    "icons": [
+        {
+            "src": "/assets/favicon/touch-icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/favicon/touch-icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#39870c",
+    "background_color": "#39870c",
+    "display": "standalone",
+    "start_url": "https://proto.horizonscangeneesmiddelen.nl"
+}
