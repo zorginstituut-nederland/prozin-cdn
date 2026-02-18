@@ -1,0 +1,15 @@
+{
+    "name": "FK Online",
+    "short_name": "FK Online",
+    "icons": [
+        {
+            "src": "/assets/favicon/touch-icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#39870c",
+    "background_color": "#39870c",
+    "display": "standalone",
+    "start_url": "https://proto.horizonscangeneesmiddelen.nl"
+}
