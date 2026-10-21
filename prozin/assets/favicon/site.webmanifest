@@ -1,0 +1,14 @@
+{
+    "name": "Prozin",
+    "short_name": "Prozin",
+    "icons": [
+        {
+            "src": "/assets/favicon/touch-icon.svg",
+            "sizes": "21x21",
+            "type": "image/svg+xml"
+        }
+    ],
+    "theme_color": "#777c00",
+    "background_color": "#777c00",
+    "display": "standalone"
+}
